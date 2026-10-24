@@ -1,0 +1,10 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/novo/politica-de-privacidade/",
+      "destination": "/politica-de-privacidade/",
+      "permanent": true
+    }
+  ]
+}

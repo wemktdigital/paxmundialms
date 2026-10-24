@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paxmundialms.com.br/sitemap.xml
